@@ -1,0 +1,25 @@
+{
+  "rankLog": "",
+  "tag": "",
+  "staffs": [""],
+  "publicParents": [""],
+  "registerParents": [""],
+  "solvingParents": [],
+  "privateParents": [],
+  "aloneParents": [],
+  "funParents": [],
+  "messageCount": 1,
+  "messageCoin": 1,
+  "voiceCount": 1,
+  "voiceCoin": 1,
+  "publicCoin": 1,
+  "taggedCoin": 1,
+  "emojis": {
+    "fill": "<a:doluortabar:835684088554848287>",
+    "empty": "<:bosortabar:835684088102125590>",
+    "fillStart": "<a:dolusolbar:835684088446451732>",
+    "emptyEnd": "<:bossagbar:835684088558911498>",
+    "fillEnd": "<a:dolusolbar:835684088416436304>",
+    "noktaemoji":"<:siyahnokta:835684491863261214>"
+  }
+}
