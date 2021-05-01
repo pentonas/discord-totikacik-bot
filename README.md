@@ -7,3 +7,5 @@ Totika arkadaşımızın botlarına buradan ulaşabilirsiniz.
 - Kullandığı Stats Botu: https://github.com/yashinu/discord-yashinu-statbot
 
 BANA İNSTAGRAM'DA POST ATTIRARAK BAŞKALARININ KODLARINI KULLANDIĞIMI SANANLARA DA KENDİ BOTLARIMI YAKIN BİR SÜRE PAYLAŞICAM ORADAN DA HABERDAR OLABİLİRSİNİZ!
+
+Gece yani 1 MAYISTA discord.gg/witcher adlı sunucu patladı ve patlatan şahısın adı da TOTİKA'DIR!
