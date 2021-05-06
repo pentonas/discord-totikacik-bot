@@ -4,3 +4,6 @@ Zamanında Alicem Dante'nin açtığı sunucuda 30 Guard koymuş olduğum ve sun
 - Kullandığı Moderasyon: https://github.com/iOwsla/Wency-Toku-ibidi
 - Kullandığı Yetkili XP: https://github.com/MrEmperors/discord-yetkili-stat-bot
 - Kullandığı Stats Botu: https://github.com/yashinu/discord-yashinu-statbot
+
+![image](https://user-images.githubusercontent.com/39532511/117366338-44270700-aec9-11eb-84cb-0dc02ae59cad.png)
+![image](https://user-images.githubusercontent.com/39532511/117366349-48532480-aec9-11eb-9ed0-0156a46f598f.png)
