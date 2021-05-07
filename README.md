@@ -2,7 +2,7 @@ Totika arkadaşımızın botlarına buradan ulaşabilirsiniz. Güya kendi yazdı
 Zamanında Alicem Dante'nin açtığı sunucuda 30 Guard koymuş olduğum ve sunucu bot üstünden patlayınca bana laf olarak gönderme yapan "TOTİKAMA" gelsin :)
 
 - Kullandığı Moderasyon: https://github.com/iOwsla/Wency-Toku-ibidi
-- Kullandığı Yetkili XP: https://github.com/MrEmperors/discord-yetkili-stat-bot
+- Kullandığı Yetkili XP: https://github.com/thearkxd/discord-advanced-stat-bot
 - Kullandığı Stats Botu: https://github.com/yashinu/discord-yashinu-statbot
 
 ![image](https://user-images.githubusercontent.com/39532511/117366338-44270700-aec9-11eb-84cb-0dc02ae59cad.png)
